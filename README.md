@@ -11,41 +11,6 @@ Our Web3 Chat Application enables users to engage in secure and private conversa
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2023/04/blockchain-chat-dapp.jpg)
 
-## Instruction
-
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/blockchain-chat-dapp-project-source-code)
-
-#### Setup Video
-- [Final Code Setup video](https://youtu.be/VI2DW5Ttupg?si=-ZyXK842Gionh1Xy)
-
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
-```
-
-#### Install Vs Code Editor
-
-```https://code.visualstudio.com/download
-  GET: VsCode Editor
-```
-
-#### NodeJs & NPM Version
-
-```https://nodejs.org/en/download
-  NodeJs: v18.12.1
-  NPM: 8.19.2
-```
-
-#### Clone Starter File
-
-```https://github.com/daulathussain/Airdrop-Crypto-Starter-File
-  GET: Project Starter File Download
-```
-
-
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
 ## Final Code Instruction
 
@@ -98,18 +63,5 @@ We are using RemixID for deploying the contract and generation of the ABI in the
 ```https://mumbai.polygonscan.com/
   OPEN: Polygon Mumbai
 ```
-
-## Important Links
-
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
-
-
-## Authors
-
-- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
-- [@consultancy](https://www.theblockchaincoders.com/consultancy)
-- [@youtube](https://www.youtube.com/@daulathussain)
 
 
